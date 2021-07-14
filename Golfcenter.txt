@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html>
+<title>sushmita_golfcentre</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <style>
+    .collapsible {
+  background-color: #d2a679;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: yes;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #c68c53;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+    .footer {
+   
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #E9967A;
+   color: black;
+   text-align: center;
+}
+  </style>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+    <a href="#home" class="w3-bar-item w3-button" style="color: Tomato;" ><b>TOLLY AIRTEL</b><br>GOLF CENTRE</a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="#home" class="w3-bar-item w3-button"><b>Home</b></a>
+      <a href="#about" class="w3-bar-item w3-button"><b>About</b></a>
+      <a href="#activities" class="w3-bar-item w3-button"><b>Activities</b></a>
+      <a href="#notice" class="w3-bar-item w3-button"><b>Notice Board</b></a>
+      <a href="#contact" class="w3-bar-item w3-button"><b>Contact</b></a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
+  <img class="w3-image" src="ClubPic3.jpg" alt="Architecture" width="1500" height="800">
+ 
+</header>
+
+<!-- Page content -->
+<div class="w3-content w3-padding" style="max-width:1564px">
+
+  
+
+  <!-- About Section -->
+  <div class="w3-container w3-padding-32" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">About</h3>
+    <p>Welcome to Tolly Airtel Golf Centre. With extraordinary coaching and golfing facilities Tolly Airtel Golf Centre is amongst the top 20 country clubs in the world. Recently, the golf centre has been awarded as the Best Golf Academy in India at the India Golf Awards 2017. The centre hosts 90% of all the corporate golf events in Kolkata. Leading corporate houses have membership at Tolly. The leading integrated golf centre in the country has the world’s most acclaimed training aids. It is best in class equipment with a unique high quality repair and fitting facilities. One can get top quality training equipments like Callaway balls, Callaway club from the centre. It is a preferred destination for top companies for their golfing and promotional needs. The centre also has a Sports Science Centre. It is a center of excellence for the development of champions under an Elite Junior Program. With 60,000 prominent members, guests, juniors, corporate clinic, attendees and event participants the centre has achieved a new high in the golfing industry. Prominent HNI individuals, opinion makers and key people of the corporate world and society are a part of the Tolly Airtel Golf Center. Leading companies cutting across all sectors – FMCG, Banks, Auto, Steel, Cement, Retail both private and public sector companies too are regular visitors to the centre. The centre has 80 residential rooms accommodating foreign and out of city guests from all over the world. There are members from over 50 affiliated clubs worldwide and Indian Golf Union members. Tolly Airtel golf centre repair facility is one of its kinds in eastern India. The Cafeteria and which serves snacks from 4.30am to 9 pm with an attached changing room and toilets making the golf centre self sufficient .The Indoor Putting studio helps golfers to analyze their angle of approach, tempo, speed, point of contact, path of the putter-head etc .The Golf Centre Classroom- 400 Sq. Ft. State of the Art Classroom with surround sound, projector etc. which can accommodate up-to 60 people for a conference/ presentation/ indoor coaching. There is a dedicated Golf Library at the centre. It is eastern India’s only golf library with over 300 golf magazines and books. The Tolly Golf Centre has some fine technological facilities with 4 Camera Coaching Studio. The K-Vest, 3D swing analysis - only two in India along with an explainer swing system which is exclusive to Tolly club. It also has TOMI putting analysis, V1 swing analysis / iswing on Tablets and a Projector for group golf lessons. It offers top class coaching facilities with the best coaches who have played professional golf and trained at the highest levels. Indrajit Bhalotia is India’s most experienced golf coach. He is the only ‘A’ category coach in Eastern India. Mr. Bhalotia has been trained in Italy at the European PGA Teaching Centre. He is the staff teacher of the National Golf Academy of India. He has also been trained at ISSA, USA, in Sports Conditioning. He holds Diploma in Business Management and Sports Psychology along with a degree in Sports Psychology, SNHS, UK. He is the coach to the Indian Junior team for the Asia Pacific Championship, 2005 and 2008. He has won 5 PGA of India titles. Another renowned coach is Mr. Basad Ali. Mr.Ali is considered to be a living legend of Indian golf with over 80 wins on the PGA of India tour.He is the winner of the Order of Merit over 8 times. He has also represented India in the World Cup. Next in line comes Rukmini Mehta who is a Category A coach. She has been trained in Academy Operations at the DLF golf academy. Ms. Mehta is also trained in V1, TOMI and K-Vest. She is also a TPI level 2 trainer.
+    </p>
+  </div>
+
+<br>
+<p>Facilities :</p>
+<button type="button" class="collapsible">The Driving Range</button>
+<div class="content">
+  <div class="w3-row-padding w3-padding-16 w3-center">
+    
+    <div class="w3-third">
+      <img src="driving_range1.jpeg" alt="driving_range1" style="width:100%">
+      
+    </div>
+<div class="w3-third">
+      <img src="driving_range2.jpeg" alt="driving_range2" style="width:100%">
+      
+    </div>
+    <div class="w3-third">
+      <img src="driving_range3.jpeg" alt="driving_range3" style="width:100%">
+      
+      
+    </div>
+    
+  </div>
+</div>
+<button type="button" class="collapsible">Putting Green</button>
+<div class="content">
+  
+  <div class="w3-row-padding w3-padding-16 w3-center">
+<h3><strong>5-hole Putting Area</strong></h3>
+ <div class="w3-row-padding w3-padding-16 w3-center">
+    
+    <div class="w3-quarter">
+      <img src="5_hole1.jpeg" alt="5_hole1" style="width:90%">
+      
+    </div>
+<div class="w3-quarter">
+      <img src="5_hole2.jpeg" alt="5_hole2" style="width:100%">
+      
+    </div>
+    <div class="w3-quarter">
+      <img src="5_hole3.jpeg" alt="5_hole3" style="width:100%">
+ 
+    </div>
+   <div class="w3-quarter">
+      <img src="5_hole4.jpeg" alt="5_hole4" style="width:100%">
+ 
+    </div>
+    
+  </div>
+   
+  </div>
+  
+  <div class="w3-row-padding w3-padding-16 w3-center">
+<h3><strong>Indoor Putting Studio</strong></h3>
+ <div class="w3-row-padding w3-padding-16 w3-center">
+    
+    <div class="w3-third">
+      <img src="indoor_putting1.jpeg" alt="indoor_putting1" style="width:100%">
+      
+    </div>
+<div class="w3-third">
+      <img src="indoor_putting2.jpeg" alt="indoor_putting2" style="width:100%">
+      
+    </div>
+    <div class="w3-third">
+      <img src="indoor_putting3.jpeg" alt="indoor_putting3" style="width:100%">
+      
+      
+    </div>
+    
+  </div>
+   
+  </div>
+  
+</div>
+<button type="button" class="collapsible">Chipping Area</button>
+<div class="content">
+  <div class="w3-row-padding w3-padding-16 w3-center">
+    
+    
+    <div class="w3-third">
+      <img src="chipping_area2.jpeg" alt="chipping_area1" style="width:90%" >
+    </div>
+    <div class="w3-third">
+      <img src="chipping_area1.jpeg" alt="chipping_area1" style="width:60%" >
+    </div>
+    <div class="w3-third">
+      <img src="chipping_area3.jpeg" alt="chipping_area1" style="width:90%" >
+    </div>
+  
+  </div>
+  
+</div>
+  
+ 
+  
+
+<!-- Activities Section -->
+  <div class="w3-container w3-padding-32" id="activities">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Activities</h3>
+  </div>
+  <p>State of the art Golf academy with 4-camera Studio, Video analysis facility, TOMI Putting Analysis, K-Vest, Flightscope, Explanar. Country’s best junior program with a database of 500 junior golfers.Country’s best club fitting and repair centre now at Tolly Airtel Golf Centre.
+</p>
+<div class="w3-row-padding w3-padding-16 w3-center">
+    
+    <div class="w3-third">
+      <img src="golfcentre4.jpg" alt="golfcentre4" style="width:100%">
+      
+    </div>
+<div class="w3-third">
+      <img src="golfcentre3.png" alt="golfcentre3" style="width:90%">
+      
+    </div>
+    <div class="w3-third">
+      <img src="golfcentre5.jpg" alt="golfcentre5" style="width:100%">
+      
+      
+    </div>
+    
+  </div>
+  
+<br>
+  
+<div class="w3-row-padding w3-padding-16 w3-center">
+<div class="w3-quarter">
+      <img src="bootcamp.jpg" alt="bootcamp" style="width:100%">
+      <h3><strong>Fitness & Conditioning Boot Camp for Members</strong></h3>
+      
+
+    </div> 
+<div class="w3-quarter">
+      <img src="demo day.jpg" alt="demo day" style="width:100%">
+  <h3><strong>Demo days</strong></h3>  
+    </div>   
+
+    
+    <div class="w3-quarter">
+      <img src="nutrition.jpg" alt="nutrition" style="width:100%">
+      <h3><strong>Nutrition seminars</strong></h3> 
+    </div>
+  
+    <div class="w3-quarter">
+      <img src="injury.jpg" alt="injury" style="width:100%">
+      <h3><strong>Injury management sessions</strong></h3>
+    </div>
+  
+  </div>
+  
+  <!-- Second Photo Grid-->
+  <div class="w3-row-padding w3-padding-16 w3-center">
+    <div class="w3-quarter">
+      <img src="free lessons.jpg" alt="free lessons" style="width:100%">
+      <h3><strong>Introductory free lessons for non-golfing members</strong></h3>
+      
+    </div>
+    <div class="w3-quarter">
+      <img src="skills.jpg" alt="skills" style="width:100%">
+      <h3> <strong>Members’ Skill Competition introduced </strong></h3>
+      
+    </div>
+    <div class="w3-quarter">
+      <img src="floodlights.jpg" alt="floodlights" style="width:90%">
+      <h3><strong>Free floodlights for members</strong></h3>
+      
+    </div>
+  </div>
+  
+  <button type="button" class="collapsible">Corporate Clinics</button>
+<div class="content">
+  <div class="w3-row-padding w3-padding-16 w3-center">
+    <div class="w3-third">
+      <img src="corporate_clinics1.jpeg" alt="corporate_clinics1" style="width:92%">
+      
+      
+    </div>
+    <div class="w3-third">
+      <img src="corporate_clinics2.jpeg" alt="corporate_clinics2" style="width:100%">
+     
+      
+    </div>
+    <div class="w3-third">
+      <img src="corporate_clinics3.jpeg" alt="corporate_clinics3" style="width:90%">
+     
+      
+    </div>
+  </div>
+  <div class="w3-row-padding w3-padding-16 w3-center">
+    <div class="w3-half">
+      <img src="corporate_clinics4.jpeg" alt="corporate_clinics4" style="width:50%">
+      
+      
+    </div>
+    <div class="w3-half">
+      <img src="corporate_clinics5.jpeg" alt="corporate_clinics5" style="width:60%">
+     
+      
+    </div>
+    
+  </div>
+</div>
+<button type="button" class="collapsible">NGAI Coaches Refresher Courses</button>
+<div class="content">
+  <p> IGU Refresher Course for coaches was held from 25th to 27th January, 2016 at Tolly Airtel Golf Centre. 31 certified teaching pros from Eastern India and 1 from Maharastra took part in the course.
+</p>
+  <div class="w3-row-padding w3-padding-16 w3-center">
+    <div class="w3-third">
+      <img src="refresher1.jpeg" alt="refresher1" style="width:100%">
+      
+      
+    </div>
+    <div class="w3-third">
+      <img src="refresher2.jpeg" alt="refresher2" style="width:100%">
+     
+      
+    </div>
+    
+     
+    <div class="w3-third">
+      <img src="refresher3.jpeg" alt="refresher3" style="width:100%">
+     
+      
+    </div>
+  
+  </div>
+  <div class="w3-row-padding w3-padding-16 w3-center">
+    
+      <img src="IGU_ref.jpg" alt="IGU_ref" style="width:50%" allign= "center">
+
+    
+</div>
+  
+  </div>
+<button type="button" class="collapsible">Swing analysis</button>
+<div class="content">
+  <div class="w3-row-padding w3-padding-16 w3-center">
+    
+      
+<div class="w3-half">
+      <img src="swing_analysis1.jpeg" alt="swing_analysis1.jpeg" style="width:50%">
+     
+      
+    </div>
+    <div class="w3-half">
+      <img src="swing_analysis2.jpeg" alt="swing_analysis2.jpeg" style="width:45%">
+     
+      
+    </div>
+    
+</div>
+  
+</div>
+
+
+<button type="button" class="collapsible">KKR at Tolly</button>
+<div class="content">
+
+ <div class="w3-row-padding w3-padding-16 w3-center">
+<h3><strong>KKR at Tolly</strong></h3>
+<p>Protouch had organized an event entertaining The Kolkata Knight Riders.
+</p>
+    <div class="w3-half">
+      <img src="golfcentre15.jpg" alt="golfcentre15" style="width:50%">
+      
+
+    </div>
+    <div class="w3-half">
+      <img src="golfcentre14.jpg" alt="golfcentre14" style="width:50%">
+      
+   </div> 
+   
+  </div> 
+</div>
+<button type="button" class="collapsible">Outstation coaches</button>
+<div class="content">
+<p> Outstation coaches visit us for specialised training at Tolly Airtel Golf Centre.
+</p>
+
+<div class="w3-row-padding w3-padding-16 w3-center">
+    <div class="w3-quarter">
+      <img src="golfcentre_bdesh.jpg" alt="golfcentre_bdesh" style="width:100%">
+      <p> Faridul Islam from Bangladesh, Naeem Akhter & Jiban Sharma from Shillong getting their practical training </p>
+    </div>
+  
+  <div class="w3-quarter">
+      <img src="golfcentre_ashbeer.jpg" alt="golfcentre_ashbeer" style="width:100%">
+<p> Leading professional Ashbeer Saini taking a lesson at the Tolly Airtel Golf Centre's 4 camera studio
+</p>
+</div>
+    <div class="w3-quarter">
+      <img src="golfcentre_virajeet.jpg" alt="golfcentre_virajeet" style="width:90%">
+<p> Virajeet Sandhu, amateur golfer from Mumbai  visited us for advanced training.
+</p>
+</div> 
+<div class="w3-quarter">
+      <img src="golfcentre_rahul.jpg" alt="golfcentre_rahul" style="width:90%">
+<p> Rahul Ajay, top junior from Hyderabad practicing at Tolly Airtel Golf Centre
+</p>
+</div> 
+  
+  
+</div>
+  <br>
+  
+<div class="w3-row-padding w3-padding-16 w3-center">
+    <p> Professional Golfers at the Tolly Airtel Golf Centre </p>
+    <div class="w3-half">
+      <img src="golfcentre16.jpeg" alt="golfcentre16" style="width:50%">
+     
+    </div>
+  
+  <div class="w3-half">
+      <img src="golfcentre17.jpeg" alt="golfcentre17" style="width:50%">
+      
+    </div>
+   
+</div>
+</div>
+ 
+  
+
+<br>      
+
+<div class="w3-row-padding w3-padding-16 w3-center">
+  
+<h3><strong>Not Only Golf …</strong></h3>
+
+<p>Along with golf teaching, Protouch has been organizing fitness training, sports science, bio-mechanic, sports psychology sessions by qualified professionals for the holistic development of our juniors.
+</p>
+  <div class="w3-row-padding w3-padding-16 w3-center">
+    
+      <img src="fitness2.jpg" alt="fitness2" style="width:50%" allign= "center">
+    
+</div>
+  </div> 
+
+<div class="w3-row-padding w3-padding-16 w3-center">
+<p><strong>Our supporting team:</strong></p>
+<p>Malini Sarkar- MBA, B.Psy, University of Woolongong, Australia</p>
+ 
+<p>Binoy Bera- Bihar School of Yoga</p>
+
+<p>Supriya Sana- Bio Mechanics & rehab specialist, B.P.T. (P.T.), WBHUS</p>
+</div>
+   
+  <br>
+
+ 
+     <!-- Notice Board Section -->
+ <div class="w3-container w3-padding-32" id="notice">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16"><strong>Notice Board</strong></h3>
+  
+  
+      <h4><strong>Member charges</strong></h4>
+      <p class="w3-text-grey">To see the member charges <a href="Notice1.jpg"><br>click here</a></p><br>
+    
+      <h4><strong> Guest charges</strong></h4>
+    <p class="w3-text-grey">To see the guest charges<a href="Notice2.jpg"><br>click here</a></p><br>
+    
+     <h4><strong>Individual coachs' charges</strong></h4>
+   <p class="w3-text-grey">To see individual coachs' charges <a href="Notice3.jpg"><br>click here</a></p><br>
+
+     <h4><strong>Junior Programme</strong></h4>
+   <p class="w3-text-grey">To see the junior programs<a href="Notice4.jpg"><br>click here</a></p><br>
+  </div>
+  
+  
+  <!-- Contact Section -->
+  <div class="w3-container w3-padding-32" id="contact">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16"><strong>Contact</strong></h3>
+<h4><strong>REACH US AT +91 9007006006</strong></h4>    
+<p><strong>Lets get in touch and share what do you think about us!</strong></p>
+    <form action="/action_page.php" target="_blank">
+      <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Email" required name="Email">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Subject" required name="Subject">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Comment" required name="Comment">
+      <button class="w3-button w3-black w3-section" type="submit">
+        <i class="fa fa-paper-plane"></i> SEND MESSAGE
+      </button>
+    </form>
+  </div>
+
+
+
+
+<!-- you tube video -->
+<div class="w3-container">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/emQVV2G-swI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+
+</div>
+
+
+<div class="footer">
+  <p>Made with Love by <a href="https://www.facebook.com/sush.mita.3150807" ><strong>Sushmita Paul</strong></a></p>
+</div>
+<!-- End page content -->
+  </div>
+  
+  <script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+
+</body>
+</html>
